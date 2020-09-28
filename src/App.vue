@@ -13,7 +13,12 @@
       <template slot="end">
         <b-navbar-item tag="div">
           <div class="buttons">
-            <b-button size="is-medium" icon-left="github">
+            <b-button
+              tag="a"
+              href="https://github.com/berviantoleo/indonesia-os-list"
+              size="is-medium"
+              icon-left="github"
+            >
               Github
             </b-button>
           </div>
