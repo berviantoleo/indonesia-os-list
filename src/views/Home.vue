@@ -9,7 +9,7 @@
           >Distrowatch</a
         >. Feel free to contribute in this website.
       </b-notification>
-      <b-table :data="data">
+      <b-table narrowed striped hoverable bordered :data="data">
         <b-table-column field="id" label="ID" sortable v-slot="props">
           {{ props.row.id }}
         </b-table-column>
@@ -49,5 +49,4 @@
   </section>
 </template>
 
-<script lang="ts" src="./home.ts">
-</script>
+<script lang="ts" src="./home.ts"></script>

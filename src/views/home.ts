@@ -55,7 +55,8 @@ export default class Home extends Vue {
     {
       id: 7,
       name: "Indonesia, Go Open Source! (IGOS)",
-      publisher: "Kemenkominfo, Kemenristek, Kemenpan-RB, Kemenkumham, dan Kemendikbud",
+      publisher:
+        "Kemenkominfo, Kemenristek, Kemenpan-RB, Kemenkumham, dan Kemendikbud",
       publishedSince: "2004-06-30",
       website: "https://igos-nusantara.or.id",
       status: "Discontinued"
