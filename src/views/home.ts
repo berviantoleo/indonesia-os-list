@@ -3,14 +3,14 @@ import moment from "moment";
 
 @Component({})
 export default class Home extends Vue {
-  public data: object[] = [
+  public data: Record<string, unknown>[] = [
     {
       id: 1,
       name: "BlankOn",
       publisher: "Indonesian Linux Mover Foundation",
       publishedSince: "2005-02-11",
       website: "https://blankonlinux.or.id/",
-      status: "Dormant"
+      status: "Dormant",
     },
     {
       id: 2,
@@ -18,7 +18,7 @@ export default class Home extends Vue {
       publisher: "BEE Free",
       publishedSince: "2018-07-01",
       website: "https://www.beefree.tech",
-      status: "Active"
+      status: "Active",
     },
     {
       id: 3,
@@ -26,7 +26,7 @@ export default class Home extends Vue {
       publisher: "Merdeka Trustix Linux",
       publishedSince: "2011-01-25",
       website: "http://merdeka.trustix.co.id/",
-      status: "Discontinued"
+      status: "Discontinued",
     },
     {
       id: 4,
@@ -34,7 +34,7 @@ export default class Home extends Vue {
       publisher: "WinBi",
       publishedSince: "2002-06-27",
       website: "http://www.software-ri.or.id/winbi/",
-      status: "Discontinued"
+      status: "Discontinued",
     },
     {
       id: 5,
@@ -42,7 +42,7 @@ export default class Home extends Vue {
       publisher: "Zencafe",
       publishedSince: "2007-08-01",
       website: "http://www.zencafe.web.id/",
-      status: "Discontinued"
+      status: "Discontinued",
     },
     {
       id: 6,
@@ -50,7 +50,7 @@ export default class Home extends Vue {
       publisher: "Dinus Open Source Community (DOSCOM)",
       publishedSince: "2010-10-16",
       website: "https://tealinuxos.org",
-      status: "Active"
+      status: "Active",
     },
     {
       id: 7,
@@ -59,10 +59,10 @@ export default class Home extends Vue {
         "Kemenkominfo, Kemenristek, Kemenpan-RB, Kemenkumham, dan Kemendikbud",
       publishedSince: "2004-06-30",
       website: "https://igos-nusantara.or.id",
-      status: "Discontinued"
-    }
+      status: "Discontinued",
+    },
   ];
-  public changeFormat(date: string) {
+  public changeFormat(date: string): string {
     return moment(date).format("MMMM Do YYYY");
   }
 }
