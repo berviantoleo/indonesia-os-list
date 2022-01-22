@@ -1093,15 +1093,15 @@
     webpack "^5.54.0"
     yorkie "^2.0.0"
 
-"@vue/cli-plugin-unit-jest@~5.0.0-rc.1":
-  version "5.0.0-rc.1"
-  resolved "https://registry.npmjs.org/@vue/cli-plugin-unit-jest/-/cli-plugin-unit-jest-5.0.0-rc.1.tgz#7dbd0eede17569e6c999b1000b62265e2a40a715"
-  integrity sha512-V3KuesvltEs4rnrexQDJao9oSUnaAFXs8GKlX/orHGQY+bBee8ZXVZIWmm+jbAHDKTNtPjib9UeoXD77UPFISQ==
+"@vue/cli-plugin-unit-jest@~5.0.0-rc.2":
+  version "5.0.0-rc.2"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-unit-jest/-/cli-plugin-unit-jest-5.0.0-rc.2.tgz#0e915678e962cf3fff30651d7299d16219a51c6b"
+  integrity sha512-xXioVWYJaRVVfIWxp6UtYQCoEA9gIG/Q/7xsNka/l0ofteiOhuwqVAEk5lSQcSc9KRaWq3ZhNiGqVCTKApz5xA==
   dependencies:
     "@babel/core" "^7.12.16"
     "@babel/plugin-transform-modules-commonjs" "^7.15.0"
     "@types/jest" "^27.0.1"
-    "@vue/cli-shared-utils" "^5.0.0-rc.1"
+    "@vue/cli-shared-utils" "^5.0.0-rc.2"
     babel-jest "^27.1.0"
     deepmerge "^4.2.2"
     jest "^27.1.0"
