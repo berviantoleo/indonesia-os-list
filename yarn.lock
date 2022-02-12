@@ -1090,12 +1090,12 @@
     webpack "^5.54.0"
     yorkie "^2.0.0"
 
-"@vue/cli-plugin-router@^5.0.0-rc.2", "@vue/cli-plugin-router@~5.0.0-rc.1":
-  version "5.0.0-rc.2"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-router/-/cli-plugin-router-5.0.0-rc.2.tgz#40c186f88d27fdac6ce8d741cb7f1ec50bccdd5c"
-  integrity sha512-RtbEJD2n6ADbuWB47GU8I6vQfiNZ54ovkWarNkPCcjj+5CC7YQ1tr39pJwAzlwM9eZdxtKHpOS8DkFDB9qJakQ==
+"@vue/cli-plugin-router@^5.0.0-rc.2", "@vue/cli-plugin-router@~5.0.0-rc.3":
+  version "5.0.0-rc.3"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-router/-/cli-plugin-router-5.0.0-rc.3.tgz#7d9c204eb7a557a4661d8deb4c5503cac672c153"
+  integrity sha512-QU/6XBHDlQ0aMHcOcywaKAP9hgvxzugVXsXq3UB5eXAexOPZKX5ABik0TUxsrpwvxa7yNYbeuWfKP3LpPbz6OA==
   dependencies:
-    "@vue/cli-shared-utils" "^5.0.0-rc.2"
+    "@vue/cli-shared-utils" "^5.0.0-rc.3"
 
 "@vue/cli-plugin-typescript@~5.0.0-rc.2":
   version "5.0.0-rc.2"
@@ -1198,10 +1198,10 @@
     webpack-virtual-modules "^0.4.2"
     whatwg-fetch "^3.6.2"
 
-"@vue/cli-shared-utils@^5.0.0-rc.2":
-  version "5.0.0-rc.2"
-  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-5.0.0-rc.2.tgz#6f21858524cdc78e645d848a5b7dacbb7c994a99"
-  integrity sha512-jzSZPj92T3i23XrbCW2HNmsI6LG4P5kmerneUtTF8uwMMi540PQePA+clxUmRyNnhVJN9KnWQc10Y2+jwfXkKA==
+"@vue/cli-shared-utils@^5.0.0-rc.2", "@vue/cli-shared-utils@^5.0.0-rc.3":
+  version "5.0.0-rc.3"
+  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-5.0.0-rc.3.tgz#44bbc62c565c5a36a4532260a7349d451f948ee7"
+  integrity sha512-jUTE7EX66KEoQhcoOrs97l0rJnB0Xj/PQ41Z0vppJpkWQDbNebtBhROjce4VMSAFJXK1F+YHWNvdq57JRUcrWQ==
   dependencies:
     chalk "^4.1.2"
     execa "^1.0.0"
