@@ -1071,12 +1071,12 @@
   resolved "https://registry.yarnpkg.com/@vue/cli-overlay/-/cli-overlay-5.0.0-rc.2.tgz#3c9325beb6ad01d256cf86905ace22ec354eae41"
   integrity sha512-RbpWGDkf9hH2rkcbM9pgODecyd7nQNUesRyE7g4leqV7If8EilfKa2PU7K++ujw2+0tK9cs2wsXmm6punlt1wQ==
 
-"@vue/cli-plugin-e2e-cypress@~5.0.0-rc.2":
-  version "5.0.0-rc.2"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-e2e-cypress/-/cli-plugin-e2e-cypress-5.0.0-rc.2.tgz#94cd5512cd638677fd00938e927a1dd31443ee81"
-  integrity sha512-pgCKj3m/pCS/I84noRX9uFVJEQSvshI7ONIFUxKiWP8PFMABp8urez66f2Kit+k7QlRhVr3KmFnYZOVnlBp0wA==
+"@vue/cli-plugin-e2e-cypress@~5.0.0-rc.3":
+  version "5.0.0-rc.3"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-e2e-cypress/-/cli-plugin-e2e-cypress-5.0.0-rc.3.tgz#71ff7a0b5a3dbaf9ddf15e1ec9aaea35966c6670"
+  integrity sha512-kirPDAwKYAhxdeJJziQx2M34s+Di/xMKVjsQPElcY1Hf7e8IW3CdfYFzqmBIw9shAJIivmd2SXU7vW+uh+zHtw==
   dependencies:
-    "@vue/cli-shared-utils" "^5.0.0-rc.2"
+    "@vue/cli-shared-utils" "^5.0.0-rc.3"
     eslint-plugin-cypress "^2.11.2"
 
 "@vue/cli-plugin-eslint@~5.0.0-rc.3":
