@@ -1097,16 +1097,15 @@
   dependencies:
     "@vue/cli-shared-utils" "^5.0.0-rc.3"
 
-"@vue/cli-plugin-typescript@~5.0.0-rc.2":
-  version "5.0.0-rc.2"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-typescript/-/cli-plugin-typescript-5.0.0-rc.2.tgz#8c23a118fd66bc19d8894cb0fd4d5053cdbca18f"
-  integrity sha512-0u16Yt/XanVMMW4bD2Tk5YbYVSetbf4GEqPHVY9FnBtzpu21DXHmilLyq6bXCaKqgnrlCOdrbQZdHl5By+/xyg==
+"@vue/cli-plugin-typescript@~5.0.0-rc.3":
+  version "5.0.0-rc.3"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-typescript/-/cli-plugin-typescript-5.0.0-rc.3.tgz#038d63d067629d76e5485f8773d589633bd69e95"
+  integrity sha512-42hk0HIDVr5GqXbimzbJqG55gL4lMvBHs+npSlWF4LAIbN6QUt3LS8kvMsWWIXGK++33sQpSHK7uXspKf4GzZg==
   dependencies:
     "@babel/core" "^7.12.16"
     "@types/webpack-env" "^1.15.2"
-    "@vue/cli-shared-utils" "^5.0.0-rc.2"
+    "@vue/cli-shared-utils" "^5.0.0-rc.3"
     babel-loader "^8.2.2"
-    cache-loader "^4.1.0"
     fork-ts-checker-webpack-plugin "^6.4.0"
     globby "^11.0.2"
     thread-loader "^3.0.0"
