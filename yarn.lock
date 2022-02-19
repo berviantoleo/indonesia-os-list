@@ -1141,10 +1141,10 @@
     jest-transform-stub "^2.0.0"
     jest-watch-typeahead "^1.0.0"
 
-"@vue/cli-plugin-vuex@^5.0.0-rc.3", "@vue/cli-plugin-vuex@~5.0.0-rc.3":
-  version "5.0.0-rc.3"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-vuex/-/cli-plugin-vuex-5.0.0-rc.3.tgz#2fd411e31ba086ec9439835ee019b3830674398d"
-  integrity sha512-qlncdxD2feCQcdvxlB2pLDBIBZCg87SfKod1QDNdTAZQ0A5XFnPgFWDz1GIhoFcIGvx0DxjEOtZMSK7L/EoUaw==
+"@vue/cli-plugin-vuex@^5.0.0-rc.3", "@vue/cli-plugin-vuex@~5.0.1":
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-vuex/-/cli-plugin-vuex-5.0.1.tgz#7d277989e896db88588b4a0875314fe6576bf243"
+  integrity sha512-5J/n+Ht4r2eVuncwCXcZPHzYCz/2haktle4WcggWiKeg3jSQVUJbjviPBs6sOo3y/LG3CEfZMP9bPJjVDbexpQ==
 
 "@vue/cli-service@~5.0.0-rc.3":
   version "5.0.0-rc.3"
