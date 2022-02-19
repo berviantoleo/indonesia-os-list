@@ -1106,12 +1106,12 @@
     webpack "^5.54.0"
     yorkie "^2.0.0"
 
-"@vue/cli-plugin-router@^5.0.0-rc.3", "@vue/cli-plugin-router@~5.0.0-rc.3":
-  version "5.0.0-rc.3"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-router/-/cli-plugin-router-5.0.0-rc.3.tgz#7d9c204eb7a557a4661d8deb4c5503cac672c153"
-  integrity sha512-QU/6XBHDlQ0aMHcOcywaKAP9hgvxzugVXsXq3UB5eXAexOPZKX5ABik0TUxsrpwvxa7yNYbeuWfKP3LpPbz6OA==
+"@vue/cli-plugin-router@^5.0.0-rc.3", "@vue/cli-plugin-router@~5.0.1":
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-router/-/cli-plugin-router-5.0.1.tgz#f512a2c882d3eb2c15ba387bb1e598be625ea2c4"
+  integrity sha512-Eu56AQUEK0uULgIQotZwi5eijYNBS3+znMc0u/kaI1puW3+f/qP3YCtffp5CeVcG2Kxwrx66XBI6PMHg8hPdmA==
   dependencies:
-    "@vue/cli-shared-utils" "^5.0.0-rc.3"
+    "@vue/cli-shared-utils" "^5.0.1"
 
 "@vue/cli-plugin-typescript@~5.0.1":
   version "5.0.1"
