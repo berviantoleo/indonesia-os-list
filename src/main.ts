@@ -1,16 +1,13 @@
-import Vue from "vue";
-import buefy from "buefy";
-import "buefy/dist/buefy.css";
-import App from "./App.vue";
+import { createApp } from "vue";
+import Oruga from "@oruga-ui/oruga-next";
+import "@oruga-ui/oruga-next/dist/oruga-full.css";
 import router from "./router";
-import store from "./store";
+import { store } from "./store";
+import App from "./App.vue";
 
-Vue.config.productionTip = false;
+const app = createApp(App);
+app.use(Oruga);
+app.use(router);
+app.use(store);
 
-Vue.use(buefy);
-
-new Vue({
-  router,
-  store,
-  render: (h) => h(App),
-}).$mount("#app");
+app.mount("#app");
