@@ -17,7 +17,7 @@ export default {
           publisher: "BEE Free",
           publishedSince: "2018-07-01",
           website: "https://www.beefree.tech",
-          status: "Active",
+          status: "Discontinued",
         },
         {
           id: 3,
