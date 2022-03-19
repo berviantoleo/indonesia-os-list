@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-20.04
     strategy:
       matrix:
-        node-version: [14.x, 16.x]
+        node-version: [16.x, 17.x]
     steps:
     - uses: actions/checkout@v3
     - name: Use Node.js ${{ matrix.node-version }}
@@ -24,7 +24,7 @@ jobs:
     - run: yarn test:unit
     - run: yarn test:e2e --headless
     - name: Publish
-      if: ${{ github.event_name == 'push' && matrix.node-version == '14.x'}}
+      if: ${{ github.event_name == 'push' && matrix.node-version == '16.x'}}
       run: yarn deploy --domain http://indonesia-os-list.surge.sh/
       env:
         SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
