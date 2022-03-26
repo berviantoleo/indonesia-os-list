@@ -634,10 +634,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@oruga-ui/oruga-next@^0.5.4":
-  version "0.5.4"
-  resolved "https://registry.npmjs.org/@oruga-ui/oruga-next/-/oruga-next-0.5.4.tgz#85690619b0b8f356a8e7fa7344b060d79f3eb46b"
-  integrity sha512-Lh7v5lKBiJKacY0oO+Hx06n/hFn20eGwq/0f9GRzmxHOWGYEo2VK5JmmOC9DinCw/4yqXC97Ecdiqc+/xVc6lQ==
+"@oruga-ui/oruga-next@^0.5.5":
+  version "0.5.5"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.5.5.tgz#b7b5e6a54e663bb0cab6c35f5bece4697ae003bf"
+  integrity sha512-LmieX0fo0hbhJQRaKf4rfUlyDUwGVYkjGmSNfbontRKfKrEmmr1w1mxraF2Orxc894gkwi64NQh/SRSm4pIE5g==
 
 "@polka/url@^1.0.0-next.20":
   version "1.0.0-next.21"

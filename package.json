@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@mdi/font": "^6.5.95",
-    "@oruga-ui/oruga-next": "^0.5.4",
+    "@oruga-ui/oruga-next": "^0.5.5",
     "bulma": "^0.9.3",
     "moment": "^2.29.1",
     "vue": "^3.2.31",
