@@ -16,7 +16,7 @@
     "bulma": "^0.9.3",
     "moment": "^2.29.3",
     "vue": "^3.2.33",
-    "vue-router": "^4.0.14",
+    "vue-router": "^4.0.15",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
