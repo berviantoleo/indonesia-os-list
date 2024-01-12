@@ -739,6 +739,11 @@
   resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.8.2.tgz#561bb1e6e6fcc4736641535e1ef3ad3a62d7c95d"
   integrity sha512-XRKmuKRWos2poGtU3AVOnCCX6iGOwoj1KgVlNaz6u8aQ+hg4LwAOgh3KPwiP/lUb9PdKcSEFb7fU2SXH9a47mQ==
 
+"@oruga-ui/theme-oruga@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.npmjs.org/@oruga-ui/theme-oruga/-/theme-oruga-0.2.1.tgz#72868c2a1bc4c5585bd10e1360a61523bd16dbbb"
+  integrity sha512-z4DaydFDHvYaYv9/jyElm93t6jDC0H/Z09OPsFa7v4FtdOeEZcZ+a7/M4K3vsiHOM4iI0PctcTOj1NxUEQuE5Q==
+
 "@pkgjs/parseargs@^0.11.0":
   version "0.11.0"
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
