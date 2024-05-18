@@ -43,7 +43,7 @@
     "eslint-plugin-vue": "^9.26.0",
     "jest": "^27.5.1",
     "prettier": "^3.2.5",
-    "sass": "^1.77.1",
+    "sass": "^1.77.2",
     "sass-loader": "14.2.1",
     "surge": "^0.23.1",
     "ts-jest": "^27.1.5",
