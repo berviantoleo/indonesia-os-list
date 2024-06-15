@@ -13,7 +13,7 @@
   "dependencies": {
     "@mdi/font": "^7.4.47",
     "@oruga-ui/oruga-next": "^0.8.11",
-    "@oruga-ui/theme-oruga": "^0.2.2",
+    "@oruga-ui/theme-oruga": "^0.3.0",
     "bulma": "^0.9.4",
     "moment": "^2.30.1",
     "vue": "^3.4.29",
