@@ -762,10 +762,10 @@
   resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.8.12.tgz#2406d17c33d440d3ad1b8218ac43a3fe10b45f5d"
   integrity sha512-I1jcsTA4J6HQdNpSWgK4cNSqv1cHsghQGtJ12p0yXDSJseek0Y8f4vf9+tDRtfONzWHuRyWUGcHIfePsRKVbiQ==
 
-"@oruga-ui/theme-oruga@^0.2.2":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.2.2.tgz#f0e243be95b06ff9540d6c31beb72a6da698813c"
-  integrity sha512-0l5Td4y75He0Yz0I8FkP4TcMaEpeBFeDv49RZyiQm23gfdCqpeZyLQfhHU++e5OTjfd1llHtUA+DtTLIXgdspg==
+"@oruga-ui/theme-oruga@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.4.0.tgz#677308236a526ce4bb5009167441b92612108eca"
+  integrity sha512-22r46BCaAEuxFZxttmq3qEQ73WsR8nABdT5c3BRLChXZ37kFAnW4gVb3BDXY7h8M6Yk7DqTMn1OSmdpoZw86xA==
 
 "@pkgjs/parseargs@^0.11.0":
   version "0.11.0"
