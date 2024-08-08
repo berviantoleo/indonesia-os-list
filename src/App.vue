@@ -33,7 +33,7 @@
 
 <style lang="scss">
 @import "~@mdi/font/css/materialdesignicons.css";
-@import "bulma/bulma.sass";
+@import "bulma/sass";
 
 .sidebar-page {
   display: flex;
