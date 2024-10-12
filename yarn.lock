@@ -744,10 +744,10 @@
   resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.8.12.tgz#2406d17c33d440d3ad1b8218ac43a3fe10b45f5d"
   integrity sha512-I1jcsTA4J6HQdNpSWgK4cNSqv1cHsghQGtJ12p0yXDSJseek0Y8f4vf9+tDRtfONzWHuRyWUGcHIfePsRKVbiQ==
 
-"@oruga-ui/theme-oruga@^0.2.2":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.2.2.tgz#f0e243be95b06ff9540d6c31beb72a6da698813c"
-  integrity sha512-0l5Td4y75He0Yz0I8FkP4TcMaEpeBFeDv49RZyiQm23gfdCqpeZyLQfhHU++e5OTjfd1llHtUA+DtTLIXgdspg==
+"@oruga-ui/theme-oruga@^0.4.2":
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.4.2.tgz#9841a59bc0f8665a9ae13d88b21431b6429992bb"
+  integrity sha512-Uyf7Ra9cCpawt6yA6VNy030uuGIgmz3KD8ATAbPTsSxu1b0+rIYrYUhPWITUw76G9rCS3ZZcPFgop/K1Juqblg==
 
 "@parcel/watcher-android-arm64@2.4.1":
   version "2.4.1"
