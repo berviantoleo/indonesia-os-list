@@ -721,17 +721,17 @@
   resolved "https://registry.yarnpkg.com/@one-ini/wasm/-/wasm-0.1.1.tgz#6013659736c9dbfccc96e8a9c2b3de317df39323"
   integrity sha512-XuySG1E38YScSJoMlqovLru4KTUNSjgVTIjyh7qMX6aNN5HY5Ct5LhRJdxO79JtTzKfzV/bnWpz+zquYrISsvw==
 
-"@oruga-ui/oruga-next@^0.9.3":
-  version "0.9.3"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.9.3.tgz#3d537b680017366c19e2bb05ebc0cbe7cd15732c"
-  integrity sha512-XTO8tz9h62j+MQzW1oIsezxlToSMjOKvpSzzqpuxsDYa0x1MioESiBuwRcQVw8RfnKxmRLIPGyJCmWBJgICvWg==
+"@oruga-ui/oruga-next@^0.10.1":
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.10.1.tgz#7ef2ed9751c48f357edb69f01ee28c75f843865f"
+  integrity sha512-e4jd5uLdv1CyW+Z2xjJ1O5bZfPEN+uXWjdEbwnE9n2RTUxsozGPs4iCrErjFlEbiytV4mfF9XOw05L4kyoFsDA==
   dependencies:
-    vue-component-type-helpers "^2.1.10"
+    vue-component-type-helpers "^2.2.8"
 
-"@oruga-ui/theme-oruga@^0.5.1":
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.5.1.tgz#b8154c698b7be8d3c88796347cfaa7a8fe533f37"
-  integrity sha512-Cg9FfXDxTP0VRACLocCA5a8isPLoHBldgLQ7zYmsnpAKTheqOx1afGKTXZ3O5p4pfrzhJfZdalNbP4Pa+di1zA==
+"@oruga-ui/theme-oruga@^0.6.0":
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.6.0.tgz#7b655969927fae23b9b8c1272eeab1266dc33e65"
+  integrity sha512-Rr/FS30JvaxYau0r40y2kMZ0nQMqlDMVXDx27htw2c6FZJVwFZZo/ldlTbrC5gBBlVY1bGXq1uiwobZlocLAoQ==
 
 "@parcel/watcher-android-arm64@2.4.1":
   version "2.4.1"
@@ -8266,10 +8266,10 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-vue-component-type-helpers@^2.0.0, vue-component-type-helpers@^2.1.10:
-  version "2.1.10"
-  resolved "https://registry.yarnpkg.com/vue-component-type-helpers/-/vue-component-type-helpers-2.1.10.tgz#9f80c56a141e85ec577cf4f0b6965a61b6f1e1ef"
-  integrity sha512-lfgdSLQKrUmADiSV6PbBvYgQ33KF3Ztv6gP85MfGaGaSGMTXORVaHT1EHfsqCgzRNBstPKYDmvAV9Do5CmJ07A==
+vue-component-type-helpers@^2.0.0, vue-component-type-helpers@^2.2.8:
+  version "2.2.8"
+  resolved "https://registry.yarnpkg.com/vue-component-type-helpers/-/vue-component-type-helpers-2.2.8.tgz#66d25e4405a4bcc06a22aa4c01e35141343da580"
+  integrity sha512-4bjIsC284coDO9om4HPA62M7wfsTvcmZyzdfR0aUlFXqq4tXxM1APyXpNVxPC8QazKw9OhmZNHBVDA6ODaZsrA==
 
 vue-eslint-parser@^9.3.1, vue-eslint-parser@^9.4.3:
   version "9.4.3"
