@@ -721,17 +721,17 @@
   resolved "https://registry.yarnpkg.com/@one-ini/wasm/-/wasm-0.1.1.tgz#6013659736c9dbfccc96e8a9c2b3de317df39323"
   integrity sha512-XuySG1E38YScSJoMlqovLru4KTUNSjgVTIjyh7qMX6aNN5HY5Ct5LhRJdxO79JtTzKfzV/bnWpz+zquYrISsvw==
 
-"@oruga-ui/oruga-next@^0.10.6":
-  version "0.10.6"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.10.6.tgz#29ceae47439d6b1b68a4a79959baae6fd6a32c95"
-  integrity sha512-f4UEzY5zePmyADjUafjeQJLv1DLX6RqJbuw4U1ftPIlSo7ywWN5CYjJz0cuXRxFsYMzqB4b0rb34v6m0+UUrVg==
+"@oruga-ui/oruga-next@^0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.11.0.tgz#a1944ae88bcb6becb76313fa0431c85ce3724274"
+  integrity sha512-TaREQm81CLyEJOcEBWU5hYXrks+Dq3uSAmt9/JSfRc81A/E+Zqjzo3jdFA5IXIGkYBp8NevhouHPwrlSlirinw==
   dependencies:
     vue-component-type-helpers "^2.2.10"
 
-"@oruga-ui/theme-oruga@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.6.0.tgz#7b655969927fae23b9b8c1272eeab1266dc33e65"
-  integrity sha512-Rr/FS30JvaxYau0r40y2kMZ0nQMqlDMVXDx27htw2c6FZJVwFZZo/ldlTbrC5gBBlVY1bGXq1uiwobZlocLAoQ==
+"@oruga-ui/theme-oruga@^0.7.0":
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.7.0.tgz#b51994fc297e51bb736e66436d3a102070fc01c6"
+  integrity sha512-ndV7ioivvrGSlvQ5XH2ZNeN4Knm3YIErNNDpjLycCcMLirvdQUoOZlpec7MSiKiripRSCsSqzLMG8L4vs3KPqg==
 
 "@parcel/watcher-android-arm64@2.4.1":
   version "2.4.1"
