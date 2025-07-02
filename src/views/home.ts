@@ -8,7 +8,7 @@ export default {
           name: "BlankOn",
           publisher: "Indonesian Linux Mover Foundation",
           publishedSince: "2005-02-11",
-          website: "https://blankonlinux.or.id/",
+          website: "https://blankon.id/",
           status: "Dormant",
         },
         {
