@@ -3,7 +3,7 @@
     <div class="container">
       <h1 class="title">Indonesia Operating System List</h1>
       <o-notification
-        :hasIcon="false"
+        :has-icon="false"
         variant="info"
         aria-close-label="Close notification"
       >
@@ -15,32 +15,32 @@
         >. Feel free to contribute in this website.
       </o-notification>
       <o-table narrowed striped hoverable bordered :data="listData">
-        <o-table-column field="id" label="ID" sortable v-slot="props">
+        <o-table-column v-slot="props" field="id" label="ID" sortable>
           {{ props.row.id }}
         </o-table-column>
-        <o-table-column field="name" label="Name" sortable v-slot="props">
+        <o-table-column v-slot="props" field="name" label="Name" sortable>
           {{ props.row.name }}
         </o-table-column>
         <o-table-column
+          v-slot="props"
           field="publisher"
           label="Publisher"
           sortable
-          v-slot="props"
         >
           {{ props.row.publisher }}
         </o-table-column>
         <o-table-column
+          v-slot="props"
           field="publishedSince"
           label="Published Date"
           sortable
-          v-slot="props"
         >
           {{ changeFormat(props.row.publishedSince) }}
         </o-table-column>
-        <o-table-column field="website" label="Website" sortable v-slot="props">
+        <o-table-column v-slot="props" field="website" label="Website" sortable>
           <a :href="props.row.website">{{ props.row.website }}</a>
         </o-table-column>
-        <o-table-column field="status" label="Status" sortable v-slot="props">
+        <o-table-column v-slot="props" field="status" label="Status" sortable>
           <div
             :style="
               props.row.status === 'Active' ? 'color:green;' : 'color:red;'
