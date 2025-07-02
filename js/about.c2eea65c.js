@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkindonesia_os_list"]=self["webpackChunkindonesia_os_list"]||[]).push([[594],{9883:function(s,t,n){n.r(t),n.d(t,{default:function(){return l}});var e=n(641);const i={class:"section"};function a(s,t){return(0,e.uX)(),(0,e.CE)("section",i,t[0]||(t[0]=[(0,e.Lk)("div",{class:"container"},[(0,e.Lk)("h1",{class:"title"},"Indonesia Operating System List"),(0,e.Lk)("h2",{class:"subtitle"},"This list created by Bervianto Leo Pratama.")],-1)]))}var c=n(6262);const r={},o=(0,c.A)(r,[["render",a]]);var l=o}}]);
+//# sourceMappingURL=about.c2eea65c.js.map
