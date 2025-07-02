@@ -2,7 +2,7 @@
 
 describe("My First Test", () => {
   it("Visits the app root url", () => {
-    cy.visit("/indonesia-os-list");
+    cy.visit("/");
     cy.contains("h1", "Indonesia Operating System List");
   });
 });
