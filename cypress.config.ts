@@ -1,6 +1,7 @@
 import { defineConfig } from 'cypress'
 
 export default defineConfig({
+  baseUrl: 'http://localhost:8080',
   fixturesFolder: 'tests/e2e/fixtures',
   screenshotsFolder: 'tests/e2e/screenshots',
   videosFolder: 'tests/e2e/videos',
