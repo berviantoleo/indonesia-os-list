@@ -1,6 +1,6 @@
 import { createApp } from "vue";
 import Oruga from "@oruga-ui/oruga-next";
-import "@oruga-ui/theme-oruga/dist/oruga.css";
+import "@oruga-ui/theme-oruga/style.css";
 import router from "./router";
 import { store } from "./store";
 import App from "./App.vue";
