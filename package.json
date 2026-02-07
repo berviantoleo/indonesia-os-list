@@ -20,7 +20,7 @@
     "vuex": "^4.1.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.28.6",
+    "@babel/core": "^7.29.0",
     "@babel/preset-env": "^7.29.0",
     "@eslint/eslintrc": "^3.3.3",
     "@eslint/js": "^10.0.1",
