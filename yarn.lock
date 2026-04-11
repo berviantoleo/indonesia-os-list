@@ -1670,10 +1670,10 @@
   dependencies:
     vue-component-type-helpers "^3.2.5"
 
-"@oruga-ui/theme-oruga@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.9.0.tgz#bbda2d8730fc09623f2ccb73681506c6ac558f49"
-  integrity sha512-AFEGHqT70VmmqlIPJXvydHjyQnktMpKtOvWt5yOpoOT5nQX/7nl8Q+8TyFXI859giN7vq7d6cjH4F63kAwX7XA==
+"@oruga-ui/theme-oruga@^0.9.1":
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.9.1.tgz#c68e0c279f34a6bab7f28400d1dd3f645793632c"
+  integrity sha512-ODS8Fcz591hZQ16U9XjSPcnjOf8qbGxcAN1mtR8wWFb7vl7AVE4PR93Vmtxci0ifWpeNVTPNPIaa/SkMm7FRkQ==
 
 "@parcel/watcher-android-arm64@2.5.1":
   version "2.5.1"
