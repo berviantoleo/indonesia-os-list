@@ -1724,17 +1724,17 @@
   resolved "https://registry.yarnpkg.com/@one-ini/wasm/-/wasm-0.1.1.tgz#6013659736c9dbfccc96e8a9c2b3de317df39323"
   integrity sha512-XuySG1E38YScSJoMlqovLru4KTUNSjgVTIjyh7qMX6aNN5HY5Ct5LhRJdxO79JtTzKfzV/bnWpz+zquYrISsvw==
 
-"@oruga-ui/oruga-next@^0.13.6":
-  version "0.13.6"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.13.6.tgz#e3ca179e04e2c000856dbf216575a74916566284"
-  integrity sha512-Hfyi4iHARuJyphlX5KwX3lJdPfSj9xSSTAZ9kmHbUroQWm2Ky/mOmGpRFuwCfWotTCvbZ0yfrXav8ADM/EvOcA==
+"@oruga-ui/oruga-next@^0.14.0":
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.14.0.tgz#9de6cbfa51830f39be612694d484f336242e56e2"
+  integrity sha512-J+/eW2vajCldfakl5zZovl5QYYkM4BdGOSxoBm2RT4/xwSiGfy+mTEMyizPyG66bQhSTktPJxQJcFTnkc7VYGg==
   dependencies:
-    vue-component-type-helpers "^3.3.3"
+    vue-component-type-helpers "^3.3.5"
 
-"@oruga-ui/theme-oruga@^0.9.2":
-  version "0.9.2"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.9.2.tgz#655750ed6b0c4b7c82a1702a1d2f74b3a3e9ed6a"
-  integrity sha512-hkgoU+7iqYMUSTKN2CPOZBmOIxovrFBgh9gdeH8qHF46blpypr2zEKsQCuV3enYdnzOmxkky9vGTVLMqyT/CQA==
+"@oruga-ui/theme-oruga@^0.10.0":
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-oruga/-/theme-oruga-0.10.0.tgz#0f9c3f8f69d2a1be8d29f635eb2a85440a63f540"
+  integrity sha512-E+4f/aohXt9y/xL5wAgLkC5g/IzfHoEuT9JXnajJZeB1FqE6CGYeaxto1wMX40pi9WBLZ0l6y7M4Eg5KcXSHug==
 
 "@parcel/watcher-android-arm64@2.5.1":
   version "2.5.1"
@@ -9896,10 +9896,10 @@ vue-component-type-helpers@^2.0.0:
   resolved "https://registry.yarnpkg.com/vue-component-type-helpers/-/vue-component-type-helpers-2.2.12.tgz#5014787aad185a22f460ad469cc51f14524308bc"
   integrity sha512-YbGqHZ5/eW4SnkPNR44mKVc6ZKQoRs/Rux1sxC6rdwXb4qpbOSYfDr9DsTHolOTGmIKgM9j141mZbBeg05R1pw==
 
-vue-component-type-helpers@^3.3.3:
-  version "3.3.4"
-  resolved "https://registry.yarnpkg.com/vue-component-type-helpers/-/vue-component-type-helpers-3.3.4.tgz#3af1314406ef36e7a51ae343fa9dab270a8b9db4"
-  integrity sha512-joip1uZTaQR0nD23N400gIdJ7xY+WiiiMA/BCKz842gvGBknqDQAzklUvDEhqFvvrhQY8S2ZANBMu4X70VMFGw==
+vue-component-type-helpers@^3.3.5:
+  version "3.3.9"
+  resolved "https://registry.yarnpkg.com/vue-component-type-helpers/-/vue-component-type-helpers-3.3.9.tgz#01973d211481c8bb19d2c76fb46b9b546a80ff6f"
+  integrity sha512-3c/UfMe0SqyEfcGTyH7mfshHagJ9QTCbppCb0/uGpHZpFug7+If3GeGZN7I0YheKEExemx3xldQPoO7PQSOLQg==
 
 vue-eslint-parser@^10.4.0:
   version "10.4.0"
