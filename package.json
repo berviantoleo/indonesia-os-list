@@ -22,7 +22,7 @@
   "devDependencies": {
     "@babel/core": "^7.29.7",
     "@babel/preset-env": "^7.29.7",
-    "@eslint/eslintrc": "^3.3.6",
+    "@eslint/eslintrc": "^3.3.7",
     "@eslint/js": "^10.0.1",
     "@types/jest": "^30.0.0",
     "@vue/cli-plugin-e2e-cypress": "~5.0.9",
