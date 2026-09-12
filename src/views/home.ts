@@ -1,4 +1,4 @@
-import moment from "moment";
+import { format, parseISO } from "date-fns";
 export default {
   data() {
     return {
@@ -65,7 +65,7 @@ export default {
   },
   methods: {
     changeFormat(date: string): string {
-      return moment(date).format("MMMM Do YYYY");
+      return format(parseISO(date), "MMMM do yyyy");
     },
   },
 };
