@@ -8,7 +8,7 @@ const {
 } = require("@vue/eslint-config-typescript");
 
 module.exports = defineConfigWithVueTs(
-  globalIgnores([".yarn/*"]),
+  globalIgnores([".yarn/*", "dist/*"]),
   ...pluginVue.configs["flat/recommended"],
   vueTsConfigs.recommended,
   {
