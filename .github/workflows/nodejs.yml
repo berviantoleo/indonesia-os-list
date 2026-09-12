@@ -10,8 +10,9 @@ jobs:
   build:
     runs-on: ubuntu-24.04
     strategy:
+      fail-fast: false
       matrix:
-        node-version: [22.x]
+        node-version: [24.x, 26.x]
     steps:
     - uses: actions/checkout@v7
     - name: Use Node.js ${{ matrix.node-version }}
@@ -22,10 +23,10 @@ jobs:
     - run: yarn lint
     - run: yarn build
     - run: yarn test:unit
-    - run: yarn test:e2e --headless
+    - run: yarn test:e2e
     - name: Publish
       uses: peaceiris/actions-gh-pages@v4
-      if: ${{ github.event_name == 'push' && matrix.node-version == '22.x'}}
+      if: ${{ github.event_name == 'push' && matrix.node-version == '26.x'}}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./dist
