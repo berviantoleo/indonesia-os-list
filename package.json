@@ -27,7 +27,7 @@
     "@vitest/coverage-v8": "^5.0.0",
     "@vue/eslint-config-prettier": "^10.2.0",
     "@vue/eslint-config-typescript": "^14.9.0",
-    "@vue/test-utils": "^2.5.0",
+    "@vue/test-utils": "^2.5.1",
     "cypress": "^16.0.0",
     "eslint": "^10.11.0",
     "eslint-plugin-prettier": "^5.5.6",
