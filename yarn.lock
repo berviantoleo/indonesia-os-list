@@ -378,10 +378,10 @@
   resolved "https://registry.yarnpkg.com/@one-ini/wasm/-/wasm-0.2.1.tgz#5e85cbb433460b23aaa18ac024cd1a556e9e5df9"
   integrity sha512-TUqERXGNTifZ9y2g3wPxQrw3HpHv/02DsW3D90T9x0hhonrL1ZqpSmNrU2XkoIq0fP1N6gZfVQzy2Fw1ZvGBNg==
 
-"@oruga-ui/oruga-next@^0.14.3":
-  version "0.14.3"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.14.3.tgz#643b3113ac55226cedbd4383ce8be8dbeb25c65e"
-  integrity sha512-0KsD1K/9IQ+cathGiL5NOaR1l33c5NE2awwchLtg3wc5GlF5KvBykf0Tvs+OVL5wcnr2oTBV0twOQBkXYl/mvQ==
+"@oruga-ui/oruga-next@^0.14.4":
+  version "0.14.4"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.14.4.tgz#f6b8b9b24e89dbc1c9e7c08ee52e41fb17b66f2e"
+  integrity sha512-n6axIVYOy984ehIp/ETO/uUQHJrC/gH6Sxmx57tyBGmDv6rWn0T7T4dTZwfuKcdOCVI7M4w/dUW9lnDwosagSA==
   dependencies:
     vue-component-type-helpers "^3.3.5"
 
@@ -3442,15 +3442,10 @@ vitest@^5.0.0:
     tinyglobby "^0.2.17"
     why-is-node-running "^2.3.0"
 
-vue-component-type-helpers@^3.0.0:
+vue-component-type-helpers@^3.0.0, vue-component-type-helpers@^3.3.5:
   version "3.3.11"
   resolved "https://registry.yarnpkg.com/vue-component-type-helpers/-/vue-component-type-helpers-3.3.11.tgz#b2f683937e744cf5724c614955dff9bc32342fb4"
   integrity sha512-LwcxzeliO9fkQcpJG0PoX8X5kmAhKmH9wkpDLxNabwzkQ9Zeib2YVHwFV4pcWmMLfXVfjr/dSV+DaJ3cIPgSNA==
-
-vue-component-type-helpers@^3.3.5:
-  version "3.3.9"
-  resolved "https://registry.yarnpkg.com/vue-component-type-helpers/-/vue-component-type-helpers-3.3.9.tgz#01973d211481c8bb19d2c76fb46b9b546a80ff6f"
-  integrity sha512-3c/UfMe0SqyEfcGTyH7mfshHagJ9QTCbppCb0/uGpHZpFug7+If3GeGZN7I0YheKEExemx3xldQPoO7PQSOLQg==
 
 vue-eslint-parser@^10.4.0:
   version "10.4.0"
